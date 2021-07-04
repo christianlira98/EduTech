@@ -118,7 +118,6 @@ export default ({
           times.push(time)
         }
       }
-      console.log(times)
       return times
     },
     getDatesThisMonth: function () {
@@ -143,7 +142,6 @@ export default ({
           times.push(time)
         }
       }
-      console.log(times)
       return times
     }
   },
